@@ -656,6 +656,7 @@
   }
   a.price-tag{
     text-decoration: none;
+    font-family: 'Audiowide', sans-serif;
   }
   .price-tag:hover {
     background: red;
