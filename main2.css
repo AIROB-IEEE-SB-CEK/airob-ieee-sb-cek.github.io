@@ -656,6 +656,9 @@
     cursor: pointer;
     transition: background 0.4s ease-in-out, color 0.4s ease-in-out, transform 0.3s ease-in-out;
   }
+  a.price-tag{
+    text-decoration: none;
+  }
   .price-tag:hover {
     background: red;
     color: white;
