@@ -1284,6 +1284,7 @@
   
   .price-tag {
     font-size: 22px;
+    font-family: 'Audiowide', sans-serif;
     width: 140px;
     padding: 8px 20px;
     transform: none;
