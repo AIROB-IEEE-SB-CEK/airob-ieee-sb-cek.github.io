@@ -1362,6 +1362,8 @@
   }
   .footer-logo {
     max-height: 80px; 
+    position: relative;
+    top: 10px;
     margin: 2px auto;
   }
   
