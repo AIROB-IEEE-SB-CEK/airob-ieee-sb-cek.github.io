@@ -897,12 +897,12 @@
     right: -40px;
     top: 20px;
   }
-  .team_cek{
+  /* .team_cek{
     text-align: right;
     font-family: 'Audiowide', sans-serif;
     position: relative;
     right: 30px;  
-  }
+  } */
   
   .contact-details {
     display: flex;
